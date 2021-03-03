@@ -63,6 +63,8 @@
     <Compile Include="Assets\Scripts\IdleStaticState.cs" />
     <Compile Include="Assets\Scripts\RotateStaticAgent.cs" />
     <Compile Include="Assets\Scripts\bala.cs" />
+    <Compile Include="Assets\Scripts\sample agent scrip.cs" />
+    <Compile Include="Assets\navmeshcontrol.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
